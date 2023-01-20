@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a12b5c1235ba5ae4588ebb99265d90a3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controllerActionTriggerLeft: {fileID: -4289430672226363583, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  - controllerActionTriggerRight: {fileID: 7904272356298805229, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+  - controllerActionXLeft: {fileID: 1584193851336348773, guid: 5cc88c9659f83e4499809d2fee0267af, type: 3}
+  - controllerActionYLeft: {fileID: -7939387194328303323, guid: 5cc88c9659f83e4499809d2fee0267af, type: 3}
+  - controllerActionARight: {fileID: -7534482947473673932, guid: 5cc88c9659f83e4499809d2fee0267af, type: 3}
+  - controllerActionBRight: {fileID: 8777062610999243115, guid: 5cc88c9659f83e4499809d2fee0267af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
